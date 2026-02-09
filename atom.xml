@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chau Hung Cheung, Cyrus</title>
-  <icon>http://example.com/icon.png</icon>
+  <icon>https://chauhungcheungcyrus999.github.io/CyrusWebsite/icon.png</icon>
   <subtitle>God cannot be mocked. A man reaps what he sows.</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://chauhungcheungcyrus999.github.io/CyrusWebsite/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://chauhungcheungcyrus999.github.io/CyrusWebsite/"/>
   <updated>2026-02-09T08:38:28.158Z</updated>
-  <id>http://example.com/</id>
+  <id>https://chauhungcheungcyrus999.github.io/CyrusWebsite/</id>
   
   <author>
     <name>Chau Hung Cheung, Cyrus</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>First Blog Post</title>
-    <link href="http://example.com/2026/02/01/Cyrus-s-first-blog/"/>
-    <id>http://example.com/2026/02/01/Cyrus-s-first-blog/</id>
+    <link href="https://chauhungcheungcyrus999.github.io/CyrusWebsite/2026/02/01/Cyrus-s-first-blog/"/>
+    <id>https://chauhungcheungcyrus999.github.io/CyrusWebsite/2026/02/01/Cyrus-s-first-blog/</id>
     <published>2026-02-01T07:26:43.000Z</published>
     <updated>2026-02-09T08:38:28.158Z</updated>
     
