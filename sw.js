@@ -1,4 +1,4 @@
-const VERSION = "1770628321573";const preCache = ["/CyrusWebsite/images/taichi.png","/CyrusWebsite/images/banner.webp","/CyrusWebsite/css/loader.css","/CyrusWebsite/css/style.css","/CyrusWebsite/js/script.js"];const cacheDomain = [
+const VERSION = "1770628691428";const preCache = ["/CyrusWebsite/images/taichi.png","/CyrusWebsite/images/banner.webp","/CyrusWebsite/css/loader.css","/CyrusWebsite/css/style.css","/CyrusWebsite/js/script.js"];const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
   "unpkg.com",
