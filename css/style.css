@@ -46,7 +46,7 @@
   --cursor-default: default;
   --cursor-pointer: pointer;
   --cursor-text: text;
-  --footer-icon: url("/images/Sharingan_3_Tomoe.png");
+  --footer-icon: url("/PersonalBlog/images/Sharingan_3_Tomoe.png");
   --sponsor-icon: url("../images/Sharingan_3_Tomoe.png");
   --top-icon: url("../images/Sharingan_3_Tomoe.png");
   --shadow-meta: 0 0 5px 2px var(--color-meta-shadow);
@@ -259,7 +259,7 @@ body [data-aos='zoom-in'] {
 }
 @font-face {
   font-family: 'iconfont';
-  src: url("//at.alicdn.com/t/c/font_4552607_4k4bc36ef96.woff2") format('woff2');
+  src: url("/PersonalBlog//at.alicdn.com/t/c/font_4552607_4k4bc36ef96.woff2") format('woff2');
   font-display: swap;
 }
 .archives-tag-list-link:before {
